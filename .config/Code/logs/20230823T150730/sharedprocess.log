@@ -1,0 +1,130 @@
+2023-08-23 15:07:31.820 [info] Started initializing default profile extensions in extensions installation folder. file:///home/thor/.vscode/extensions
+2023-08-23 15:07:32.437 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/thor/.vscode/extensions
+2023-08-23 15:08:16.358 [info] Getting Manifest... jaspernorth.vscode-pigments
+2023-08-23 15:08:16.358 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2023-08-23 15:08:16.359 [info] Getting Manifest... formulahendry.docker-explorer
+2023-08-23 15:08:16.359 [info] Getting Manifest... ms-vscode.remote-explorer
+2023-08-23 15:08:16.359 [info] Getting Manifest... tomasvergara.vscode-fontawesome-gallery
+2023-08-23 15:08:16.359 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2023-08-23 15:08:16.359 [info] Getting Manifest... medzhidov.font-awesome-codes-html
+2023-08-23 15:08:16.359 [info] Getting Manifest... janne252.fontawesome-autocomplete
+2023-08-23 15:08:16.359 [info] Getting Manifest... formulahendry.docker-extension-pack
+2023-08-23 15:08:16.359 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-08-23 15:08:16.359 [info] Getting Manifest... ritwickdey.liveserver
+2023-08-23 15:08:16.359 [info] Getting Manifest... seyyedkhandon.firacode
+2023-08-23 15:08:16.359 [info] Getting Manifest... lihui.vs-color-picker
+2023-08-23 15:08:16.360 [info] Getting Manifest... github.vscode-pull-request-github
+2023-08-23 15:08:16.360 [info] Getting Manifest... naumovs.color-highlight
+2023-08-23 15:08:16.702 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2023-08-23 15:08:16.718 [info] Installing extension: github.vscode-pull-request-github
+2023-08-23 15:08:16.718 [info] Installing the extension without checking dependencies and pack github.vscode-pull-request-github
+2023-08-23 15:08:16.718 [info] Installing extension: ms-vscode.remote-explorer
+2023-08-23 15:08:16.718 [info] Installing the extension without checking dependencies and pack ms-vscode.remote-explorer
+2023-08-23 15:08:16.719 [info] Installing extension: formulahendry.docker-explorer
+2023-08-23 15:08:16.719 [info] Installing the extension without checking dependencies and pack formulahendry.docker-explorer
+2023-08-23 15:08:16.719 [info] Installing extension: formulahendry.docker-extension-pack
+2023-08-23 15:08:16.719 [info] Installing the extension without checking dependencies and pack formulahendry.docker-extension-pack
+2023-08-23 15:08:16.719 [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+2023-08-23 15:08:16.719 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh-edit
+2023-08-23 15:08:16.719 [info] Installing extension: ms-vscode-remote.remote-wsl
+2023-08-23 15:08:16.719 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-wsl
+2023-08-23 15:08:16.719 [info] Installing extension: medzhidov.font-awesome-codes-html
+2023-08-23 15:08:16.719 [info] Installing the extension without checking dependencies and pack medzhidov.font-awesome-codes-html
+2023-08-23 15:08:16.719 [info] Installing extension: ritwickdey.liveserver
+2023-08-23 15:08:16.719 [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+2023-08-23 15:08:16.719 [info] Installing extension: naumovs.color-highlight
+2023-08-23 15:08:16.720 [info] Installing the extension without checking dependencies and pack naumovs.color-highlight
+2023-08-23 15:08:16.720 [info] Installing extension: tomasvergara.vscode-fontawesome-gallery
+2023-08-23 15:08:16.720 [info] Installing the extension without checking dependencies and pack tomasvergara.vscode-fontawesome-gallery
+2023-08-23 15:08:16.721 [info] Installing extension: lihui.vs-color-picker
+2023-08-23 15:08:16.722 [info] Installing the extension without checking dependencies and pack lihui.vs-color-picker
+2023-08-23 15:08:16.722 [info] Installing extension: jaspernorth.vscode-pigments
+2023-08-23 15:08:16.722 [info] Installing the extension without checking dependencies and pack jaspernorth.vscode-pigments
+2023-08-23 15:08:16.722 [info] Installing extension: janne252.fontawesome-autocomplete
+2023-08-23 15:08:16.722 [info] Installing the extension without checking dependencies and pack janne252.fontawesome-autocomplete
+2023-08-23 15:08:16.723 [info] Installing extension: ms-azuretools.vscode-docker
+2023-08-23 15:08:16.723 [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+2023-08-23 15:08:16.723 [info] Installing extension: seyyedkhandon.firacode
+2023-08-23 15:08:16.725 [info] Installing the extension without checking dependencies and pack seyyedkhandon.firacode
+2023-08-23 15:08:16.725 [info] Installing extension: ms-vscode-remote.remote-ssh
+2023-08-23 15:08:16.725 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh
+2023-08-23 15:08:19.185 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode-remote.remote-wsl
+2023-08-23 15:08:19.185 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode-remote.remote-ssh-edit
+2023-08-23 15:08:19.186 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.docker-extension-pack
+2023-08-23 15:08:19.186 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.remote-explorer
+2023-08-23 15:08:19.257 [info] Extracted extension to file:///home/thor/.vscode/extensions/formulahendry.docker-extension-pack-0.0.1: formulahendry.docker-extension-pack
+2023-08-23 15:08:19.271 [info] Renamed to /home/thor/.vscode/extensions/formulahendry.docker-extension-pack-0.0.1
+2023-08-23 15:08:19.277 [info] Extracting extension completed. formulahendry.docker-extension-pack
+2023-08-23 15:08:19.294 [info] Extension installed successfully: formulahendry.docker-extension-pack
+2023-08-23 15:08:19.487 [info] Extracted extension to file:///home/thor/.vscode/extensions/ms-vscode.remote-explorer-0.4.1: ms-vscode.remote-explorer
+2023-08-23 15:08:19.497 [info] Renamed to /home/thor/.vscode/extensions/ms-vscode.remote-explorer-0.4.1
+2023-08-23 15:08:19.501 [info] Extracting extension completed. ms-vscode.remote-explorer
+2023-08-23 15:08:19.517 [info] Extension installed successfully: ms-vscode.remote-explorer
+2023-08-23 15:08:19.545 [info] Extracted extension to file:///home/thor/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.86.0: ms-vscode-remote.remote-ssh-edit
+2023-08-23 15:08:19.546 [info] Renamed to /home/thor/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.86.0
+2023-08-23 15:08:19.551 [info] Extracting extension completed. ms-vscode-remote.remote-ssh-edit
+2023-08-23 15:08:19.563 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+2023-08-23 15:08:19.594 [info] Extracted extension to file:///home/thor/.vscode/extensions/ms-vscode-remote.remote-wsl-0.81.0: ms-vscode-remote.remote-wsl
+2023-08-23 15:08:19.609 [info] Renamed to /home/thor/.vscode/extensions/ms-vscode-remote.remote-wsl-0.81.0
+2023-08-23 15:08:19.627 [info] Extracting extension completed. ms-vscode-remote.remote-wsl
+2023-08-23 15:08:19.645 [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+2023-08-23 15:08:22.551 [warning] Extension signature verification failed with error 'UnknownError': medzhidov.font-awesome-codes-html
+2023-08-23 15:08:22.554 [warning] Extension signature verification failed with error 'UnknownError': github.vscode-pull-request-github
+2023-08-23 15:08:22.580 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.docker-explorer
+2023-08-23 15:08:22.581 [warning] Extension signature verification failed with error 'UnknownError': lihui.vs-color-picker
+2023-08-23 15:08:22.582 [warning] Extension signature verification failed with error 'UnknownError': ms-azuretools.vscode-docker
+2023-08-23 15:08:22.587 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode-remote.remote-ssh
+2023-08-23 15:08:22.668 [info] Extracted extension to file:///home/thor/.vscode/extensions/lihui.vs-color-picker-1.0.0: lihui.vs-color-picker
+2023-08-23 15:08:22.748 [info] Renamed to /home/thor/.vscode/extensions/lihui.vs-color-picker-1.0.0
+2023-08-23 15:08:22.831 [info] Extracting extension completed. lihui.vs-color-picker
+2023-08-23 15:08:22.868 [info] Extension installed successfully: lihui.vs-color-picker
+2023-08-23 15:08:22.941 [info] Extracted extension to file:///home/thor/.vscode/extensions/medzhidov.font-awesome-codes-html-0.0.7: medzhidov.font-awesome-codes-html
+2023-08-23 15:08:22.952 [info] Renamed to /home/thor/.vscode/extensions/medzhidov.font-awesome-codes-html-0.0.7
+2023-08-23 15:08:22.959 [info] Extracting extension completed. medzhidov.font-awesome-codes-html
+2023-08-23 15:08:23.058 [info] Extension installed successfully: medzhidov.font-awesome-codes-html
+2023-08-23 15:08:23.124 [warning] Extension signature verification failed with error 'UnknownError': jaspernorth.vscode-pigments
+2023-08-23 15:08:23.127 [warning] Extension signature verification failed with error 'UnknownError': seyyedkhandon.firacode
+2023-08-23 15:08:23.127 [warning] Extension signature verification failed with error 'UnknownError': ritwickdey.liveserver
+2023-08-23 15:08:23.164 [warning] Extension signature verification failed with error 'UnknownError': naumovs.color-highlight
+2023-08-23 15:08:23.177 [warning] Extension signature verification failed with error 'UnknownError': tomasvergara.vscode-fontawesome-gallery
+2023-08-23 15:08:23.192 [warning] Extension signature verification failed with error 'UnknownError': janne252.fontawesome-autocomplete
+2023-08-23 15:08:23.669 [info] Extracted extension to file:///home/thor/.vscode/extensions/jaspernorth.vscode-pigments-2.0.0: jaspernorth.vscode-pigments
+2023-08-23 15:08:23.687 [info] Renamed to /home/thor/.vscode/extensions/jaspernorth.vscode-pigments-2.0.0
+2023-08-23 15:08:23.699 [info] Extracting extension completed. jaspernorth.vscode-pigments
+2023-08-23 15:08:23.714 [info] Extension installed successfully: jaspernorth.vscode-pigments
+2023-08-23 15:08:23.764 [info] Extracted extension to file:///home/thor/.vscode/extensions/seyyedkhandon.firacode-2.2.1: seyyedkhandon.firacode
+2023-08-23 15:08:23.778 [info] Renamed to /home/thor/.vscode/extensions/seyyedkhandon.firacode-2.2.1
+2023-08-23 15:08:23.791 [info] Extracting extension completed. seyyedkhandon.firacode
+2023-08-23 15:08:23.805 [info] Extension installed successfully: seyyedkhandon.firacode
+2023-08-23 15:08:23.851 [info] Extracted extension to file:///home/thor/.vscode/extensions/github.vscode-pull-request-github-0.70.0: github.vscode-pull-request-github
+2023-08-23 15:08:23.865 [info] Renamed to /home/thor/.vscode/extensions/github.vscode-pull-request-github-0.70.0
+2023-08-23 15:08:23.884 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-08-23 15:08:23.899 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-08-23 15:08:23.946 [info] Extracted extension to file:///home/thor/.vscode/extensions/ms-azuretools.vscode-docker-1.26.0: ms-azuretools.vscode-docker
+2023-08-23 15:08:23.961 [info] Renamed to /home/thor/.vscode/extensions/ms-azuretools.vscode-docker-1.26.0
+2023-08-23 15:08:23.996 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-08-23 15:08:24.015 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-08-23 15:08:24.508 [info] Extracted extension to file:///home/thor/.vscode/extensions/formulahendry.docker-explorer-0.1.7: formulahendry.docker-explorer
+2023-08-23 15:08:24.517 [info] Renamed to /home/thor/.vscode/extensions/formulahendry.docker-explorer-0.1.7
+2023-08-23 15:08:24.520 [info] Extracting extension completed. formulahendry.docker-explorer
+2023-08-23 15:08:24.535 [info] Extension installed successfully: formulahendry.docker-explorer
+2023-08-23 15:08:24.609 [info] Extracted extension to file:///home/thor/.vscode/extensions/ms-vscode-remote.remote-ssh-0.102.0: ms-vscode-remote.remote-ssh
+2023-08-23 15:08:24.616 [info] Renamed to /home/thor/.vscode/extensions/ms-vscode-remote.remote-ssh-0.102.0
+2023-08-23 15:08:24.620 [info] Extracting extension completed. ms-vscode-remote.remote-ssh
+2023-08-23 15:08:24.631 [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+2023-08-23 15:08:24.649 [info] Extracted extension to file:///home/thor/.vscode/extensions/naumovs.color-highlight-2.5.0: naumovs.color-highlight
+2023-08-23 15:08:24.659 [info] Renamed to /home/thor/.vscode/extensions/naumovs.color-highlight-2.5.0
+2023-08-23 15:08:24.664 [info] Extracting extension completed. naumovs.color-highlight
+2023-08-23 15:08:24.673 [info] Extension installed successfully: naumovs.color-highlight
+2023-08-23 15:08:24.934 [info] Extracted extension to file:///home/thor/.vscode/extensions/janne252.fontawesome-autocomplete-1.3.1: janne252.fontawesome-autocomplete
+2023-08-23 15:08:24.945 [info] Renamed to /home/thor/.vscode/extensions/janne252.fontawesome-autocomplete-1.3.1
+2023-08-23 15:08:24.949 [info] Extracting extension completed. janne252.fontawesome-autocomplete
+2023-08-23 15:08:24.959 [info] Extension installed successfully: janne252.fontawesome-autocomplete
+2023-08-23 15:08:27.309 [info] Extracted extension to file:///home/thor/.vscode/extensions/tomasvergara.vscode-fontawesome-gallery-0.0.7: tomasvergara.vscode-fontawesome-gallery
+2023-08-23 15:08:27.314 [info] Renamed to /home/thor/.vscode/extensions/tomasvergara.vscode-fontawesome-gallery-0.0.7
+2023-08-23 15:08:27.315 [info] Extracting extension completed. tomasvergara.vscode-fontawesome-gallery
+2023-08-23 15:08:27.325 [info] Extension installed successfully: tomasvergara.vscode-fontawesome-gallery
+2023-08-23 15:08:29.494 [info] Extracted extension to file:///home/thor/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-08-23 15:08:29.509 [info] Renamed to /home/thor/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-08-23 15:08:29.512 [info] Extracting extension completed. ritwickdey.liveserver
+2023-08-23 15:08:29.521 [info] Extension installed successfully: ritwickdey.liveserver

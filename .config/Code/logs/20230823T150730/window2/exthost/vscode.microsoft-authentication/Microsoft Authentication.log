@@ -1,0 +1,19 @@
+2023-08-23 15:08:33.189 [info] Reading sessions from secret storage...
+2023-08-23 15:08:33.189 [info] Got 0 stored sessions
+2023-08-23 15:08:33.189 [info] Getting sessions for all scopes...
+2023-08-23 15:08:33.189 [info] Got 0 sessions for all scopes...
+2023-08-23 15:08:33.189 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-08-23 15:08:33.189 [info] Got 0 sessions for scopes: email offline_access openid profile
+2023-08-23 15:09:25.791 [info] Logging in for the following scopes: email offline_access openid profile
+2023-08-23 15:09:29.722 [info] Exchanging login code for token for scopes: email offline_access openid profile
+2023-08-23 15:09:29.978 [info] Exchanging login code for token (for scopes: email offline_access openid profile) succeeded!
+2023-08-23 15:09:29.978 [info] Setting token for scopes: email offline_access openid profile
+2023-08-23 15:09:29.978 [info] Login successful for scopes: email offline_access openid profile
+2023-08-23 15:09:29.978 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4468000 milliseconds
+2023-08-23 15:09:29.985 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-08-23 15:09:29.985 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-08-23 15:09:29.985 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4467993 milliseconds
+2023-08-23 15:09:29.986 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-08-23 15:09:29.986 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-08-23 15:09:29.986 [info] Token available from cache (for scopes email offline_access openid profile), expires in 4467993 milliseconds
+2023-08-23 15:09:32.752 [info] Stored token for scopes: email offline_access openid profile

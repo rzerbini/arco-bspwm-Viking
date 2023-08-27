@@ -1,0 +1,658 @@
+{
+	"file_history":
+	[
+		"/usr/lib/sddm/sddm-helper-start-x11user",
+		"/home/thor/.config/bspwm/autostart.sh",
+		"/home/thor/.config/polybar/launch.sh",
+		"/home/thor/.config/polybar/config",
+		"/home/thor/Downloads/README.txt",
+		"/home/thor/.config/bspwm/sxhkd/sxhkdrc",
+		"/home/thor/.config/bspwm/bspwmrc",
+		"/etc/skel/.bin/stay-rolling/2023/23.07-23.09/stay-rolling-v1.sh",
+		"/home/thor/.bin/stay-rolling/2023/23.07-23.09/pacman.conf",
+		"/usr/share/xsessions/bspwm.desktop",
+		"/home/thor/.config/polybar/config1",
+		"/etc/polybar/config.ini",
+		"/home/thor/.config/polybar/config2",
+		"/home/thor/.config/polybar/scripts/pavolume.sh"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4152,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"next_update_check": 1693155730,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 495.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			22.0,
+			592.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/thor/.config/bspwm/autostart.sh",
+				"/home/thor/.config/bspwm/sxhkd/sxhkdrc",
+				"/home/thor/.bin/stay-rolling/2023/23.07-23.09/pacman.conf",
+				"/etc/skel/.bin/stay-rolling/2023/23.07-23.09/stay-rolling-v1.sh",
+				"/home/thor/.config/bspwm/bspwmrc",
+				"/home/thor/Downloads/README.txt",
+				"/home/thor/.config/polybar/config",
+				"/home/thor/.config/polybar/launch.sh",
+				"/home/thor/.config/polybar/config1",
+				"/etc/polybar/config.ini",
+				"/home/thor/.config/polybar/config2",
+				"/home/thor/.config/polybar/scripts/pavolume.sh"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pavolune"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 931.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/usr/lib/sddm/sddm.conf.d/default.conf",
+					"settings":
+					{
+						"buffer_size": 3418,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/etc/sddm.conf.d/kde_settings.conf",
+					"settings":
+					{
+						"buffer_size": 285,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/thor/.config/bspwm/bspwmrc",
+					"settings":
+					{
+						"buffer_size": 4181,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AgAAADQLAAAAAAAANQsAAAAAAAAAAAAANQsAAAAAAAA1CwAAAAAAAAEAAAAx",
+							"AQAAAAAAAAABAAAANAsAAAAAAAA1CwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"right_delete",
+							null,
+							"AQAAABQLAAAAAAAAFAsAAAAAAAABAAAAIw",
+							"AQAAAAAAAAABAAAAFAsAAAAAAAAUCwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/thor/.config/bspwm/sxhkd/sxhkdrc",
+					"settings":
+					{
+						"buffer_size": 12812,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAADsHAAAAAAAAPAcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOwcAAAAAAAA7BwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "super"
+							},
+							"BQAAADsHAAAAAAAAPAcAAAAAAAAAAAAAPAcAAAAAAAA9BwAAAAAAAAAAAAA9BwAAAAAAAD4HAAAAAAAAAAAAAD4HAAAAAAAAPwcAAAAAAAAAAAAAPwcAAAAAAABABwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOwcAAAAAAAA7BwAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "+"
+							},
+							"AQAAAEAHAAAAAAAAQQcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQAcAAAAAAABABwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAEAHAAAAAAAAQQcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQAcAAAAAAABABwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAEIHAAAAAAAAQwcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQgcAAAAAAABCBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "space"
+							},
+							"BQAAAEMHAAAAAAAARAcAAAAAAAAAAAAARAcAAAAAAABFBwAAAAAAAAAAAABFBwAAAAAAAEYHAAAAAAAAAAAAAEYHAAAAAAAARwcAAAAAAAAAAAAARwcAAAAAAABIBwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQwcAAAAAAABDBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAEgHAAAAAAAASQcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASAcAAAAAAABIBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"reindent",
+							null,
+							"AQAAAEkHAAAAAAAATQcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASQcAAAAAAABJBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": "dm"
+							},
+							"AgAAAE0HAAAAAAAATgcAAAAAAAAAAAAATgcAAAAAAABPBwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATQcAAAAAAABNBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": "enu_r"
+							},
+							"BQAAAE8HAAAAAAAAUAcAAAAAAAAAAAAAUAcAAAAAAABRBwAAAAAAAAAAAABRBwAAAAAAAFIHAAAAAAAAAAAAAFIHAAAAAAAAUwcAAAAAAAAAAAAAUwcAAAAAAABUBwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATwcAAAAAAABPBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": "un"
+							},
+							"AgAAAFQHAAAAAAAAVQcAAAAAAAAAAAAAVQcAAAAAAABWBwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVAcAAAAAAABUBwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/usr/lib/sddm/sddm-helper-start-x11user",
+				"/home/thor/.config/bspwm/autostart.sh",
+				"/home/thor/.config/polybar/launch.sh",
+				"/home/thor/.config/polybar/config",
+				"/home/thor/Downloads/README.txt",
+				"/home/thor/.config/bspwm/sxhkd/sxhkdrc",
+				"/home/thor/.config/bspwm/bspwmrc",
+				"/etc/skel/.bin/stay-rolling/2023/23.07-23.09/stay-rolling-v1.sh",
+				"/home/thor/.bin/stay-rolling/2023/23.07-23.09/pacman.conf",
+				"/usr/share/xsessions/bspwm.desktop",
+				"/home/thor/.config/polybar/config1",
+				"/etc/polybar/config.ini",
+				"/home/thor/.config/polybar/config2",
+				"/home/thor/.config/polybar/scripts/pavolume.sh"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dmenu_run",
+					"pavolune"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/usr/lib/sddm/sddm.conf.d/default.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3418,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 570.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/etc/sddm.conf.d/kde_settings.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 285,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/thor/.config/bspwm/bspwmrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4181,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2836,
+										2836
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1026.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/thor/.config/bspwm/sxhkd/sxhkdrc",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12812,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1878,
+										1878
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1825.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,965,40,1896,1056,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

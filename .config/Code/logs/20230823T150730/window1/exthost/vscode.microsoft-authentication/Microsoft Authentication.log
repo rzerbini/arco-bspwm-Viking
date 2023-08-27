@@ -1,0 +1,61 @@
+2023-08-23 15:07:32.939 [info] Reading sessions from secret storage...
+2023-08-23 15:07:32.939 [info] Got 0 stored sessions
+2023-08-23 15:07:32.939 [info] Getting sessions for all scopes...
+2023-08-23 15:07:32.939 [info] Got 0 sessions for all scopes...
+2023-08-23 15:07:32.939 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-08-23 15:07:32.939 [info] Got 0 sessions for scopes: email offline_access openid profile
+2023-08-23 15:07:45.625 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-08-23 15:07:45.625 [info] Got 0 sessions for scopes: email offline_access openid profile
+2023-08-23 15:07:48.848 [info] Logging in for the following scopes: email offline_access openid profile
+2023-08-23 15:08:13.169 [info] Exchanging login code for token for scopes: email offline_access openid profile
+2023-08-23 15:08:13.388 [info] Exchanging login code for token (for scopes: email offline_access openid profile) succeeded!
+2023-08-23 15:08:13.388 [info] Setting token for scopes: email offline_access openid profile
+2023-08-23 15:08:13.388 [info] Login successful for scopes: email offline_access openid profile
+2023-08-23 15:08:13.388 [info] Token available from cache (for scopes email offline_access openid profile), expires in 3660000 milliseconds
+2023-08-23 15:08:13.394 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-08-23 15:08:13.394 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-08-23 15:08:13.394 [info] Token available from cache (for scopes email offline_access openid profile), expires in 3659994 milliseconds
+2023-08-23 15:08:13.394 [info] Getting sessions for the following scopes: email offline_access openid profile
+2023-08-23 15:08:13.394 [info] Got 1 sessions for scopes: email offline_access openid profile
+2023-08-23 15:08:13.394 [info] Token available from cache (for scopes email offline_access openid profile), expires in 3659994 milliseconds
+2023-08-23 15:08:32.074 [info] Stored token for scopes: email offline_access openid profile
+2023-08-23 15:08:43.178 [error] Error: Error while encrypting the text provided to safeStorage.encryptString. Encryption is not available.
+    at R.encrypt (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:42:10994)
+    at Object.call (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:25:4844)
+    at P.s (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:23:5128)
+    at P.q (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:23:4644)
+    at o.value (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:23:4051)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1906)
+    at b.x (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1976)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:2192)
+    at o.value (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:16:38681)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1906)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:2123)
+    at o.value (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:16:38875)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1906)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:2123)
+    at se (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:16:41018)
+    at IpcMainImpl.f (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:96331)
+    at IpcMainImpl.emit (node:events:525:35)
+    at EventEmitter.<anonymous> (node:electron/js2c/browser_init:2:80979)
+    at EventEmitter.emit (node:events:513:28)
+2023-08-23 15:08:43.178 [error] Error: Error while encrypting the text provided to safeStorage.encryptString. Encryption is not available.
+    at R.encrypt (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:42:10994)
+    at Object.call (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:25:4844)
+    at P.s (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:23:5128)
+    at P.q (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:23:4644)
+    at o.value (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:23:4051)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1906)
+    at b.x (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1976)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:2192)
+    at o.value (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:16:38681)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1906)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:2123)
+    at o.value (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:16:38875)
+    at b.w (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:1906)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:18:2123)
+    at se (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:16:41018)
+    at IpcMainImpl.f (/opt/visual-studio-code/resources/app/out/vs/code/electron-main/main.js:19:96331)
+    at IpcMainImpl.emit (node:events:525:35)
+    at EventEmitter.<anonymous> (node:electron/js2c/browser_init:2:80979)
+    at EventEmitter.emit (node:events:513:28)
