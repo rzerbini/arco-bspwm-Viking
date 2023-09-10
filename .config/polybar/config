@@ -1,4 +1,4 @@
-;==========================================================
+     ;==========================================================
 ;
 ;
 ;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
@@ -50,13 +50,13 @@ separator = |
 separator-foreground = ${colors.disabled}
 
 #font-0 = monospace;2
-font-0 = "FiraCode Nerd Font:style=Regular:size=12;4"
+font-0 = "FiraCode Nerd Font:style=Regular:size=11;4"
 font-1 = "Source Code Pro:size=12;1"
 font-2 = "FontAwesome5Brands:pixelsize=12;1"
 font-3 = "unifont:fontformat=truetype:size=8:antialias=false;0"
 
 
-modules-left = xworkspaces xwindow
+modules-left = rofi xworkspaces xwindow
 modules-right = filesystem xkeyboard memory cpu wlan eth date powermenu
 
 cursor-click = pointer
@@ -178,7 +178,7 @@ expand-right = true
 
 format-spacing = 1
 
-label-open = Power
+label-open = 
 label-open-foreground = ${colors.secondary}
 label-close =  cancel
 label-close-foreground = ${colors.secondary}
@@ -189,6 +189,17 @@ menu-0-0 = reboot
 menu-0-0-exec = systemctl reboot
 menu-0-1 = power off
 menu-0-1-exec = systemctl poweroff
+
+[module/rofi]
+type = custom/text
+content = 
+content-padding = 5%
+content-background = ${color.background}
+content-foreground = ${color.foreground}
+;click-left = exec rofi -no-config -no-lazy-grab -show drun -modi drun -theme $HOME/.config/rofi/themes/launchpad.rasi
+click-right = exec rofi -theme $HOME/.config/rofi/themes/nord.rasi -show drun -show-icons -lines 6 -columns 4
+click-left = ~/.config/bspwm/launcher/launcher.sh
+;click-right = exec xfce4-appfinder
 
 [settings]
 screenchange-reload = true
